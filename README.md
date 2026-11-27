@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/GITHUB-SabihaAy92-181717?style=for-the-badge&logo=github&logoColor=white" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=SabihaAy92&label=PROF%C4%B0L%20G%C3%96R%C3%9CNT%C3%9CLENME&color=1F425D&style=for-the-badge" />
-</p
+</p>
 
 ---
 
