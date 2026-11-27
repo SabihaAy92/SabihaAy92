@@ -29,4 +29,4 @@
 
 * Şu an derslerimle birlikte temel kodlama ve problem çözme pratiği yapıyorum.
 * Öğrendiklerimi küçük projelere dönüştürmek ve yazılım alanında kendimi sağlam bir temelle geliştirmek istiyorum.
-* Yazılım alanında projeler üretmek istiyorum.
+* Yazılım alanında özgün projeler üretmeyi hedefliyorum.
