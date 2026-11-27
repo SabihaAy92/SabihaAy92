@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/E--POSTA-epostan%40ornek.com-E74C3C?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/E--POSTA-o261701020@stu.bayburt.edu.tr-E74C3C?style=for-the-badge&logo=gmail&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/GITHUB-SabihaAy92-181717?style=for-the-badge&logo=github&logoColor=white" />
   <br>
