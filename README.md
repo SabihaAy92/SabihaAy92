@@ -14,9 +14,11 @@
 
 ## 🧑‍💻 Hakkımda · About
 
-```python
-class SabihaAydemir:
-    bolum = "Bilgisayar Programciligi"
-    universite = "Bayburt Universitesi"
-    odak = ["Programlama", "Donanim", "Ag Temelleri"]
-```
+```json
+{
+  "isim": "Sabiha Aydemir",
+  "bolum": "Bilgisayar Programciligi",
+  "ogrenme_alani": ["Programlama", "Donanim", "Ag Temelleri"],
+  "hedef": "Surekli ogrenmek ve yeni projeler gelistirmek"
+}
+
