@@ -12,13 +12,13 @@
 
 ---
 
+
 ## 🧑‍💻 Hakkımda · About
 
-```json
-{
-  "isim": "Sabiha Aydemir",
-  "bolum": "Bilgisayar Programciligi",
-  "ogrenme_alani": ["Programlama", "Donanim", "Ag Temelleri"],
-  "hedef": "Surekli ogrenmek ve yeni projeler gelistirmek"
-}
-
+<p>
+  <img src="https://img.shields.io/badge/%C4%B0S%C4%B0M-Sabiha%20Aydemir-EC4899?style=flat-square" />
+  <br>
+  <img src="https://img.shields.io/badge/%C3%9CNVAN-Bilgisayar%20Programc%C4%B1l%C4%B1%C4%9F%C4%B1%20%C3%96%C4%9Frencisi-DB2777?style=flat-square" />
+  <br>
+  <img src="https://img.shields.io/badge/%C3%9CN%C4%B0VERS%C4%B0TE-Bayburt%20%C3%9Cniversitesi-F472B6?style=flat-square" />
+</p>
