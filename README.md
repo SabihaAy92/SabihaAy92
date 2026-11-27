@@ -18,7 +18,15 @@
 <p>
   <img src="https://img.shields.io/badge/%C4%B0S%C4%B0M-Sabiha%20Aydemir-EC4899?style=flat-square" />
   <br>
-  <img src="https://img.shields.io/badge/%C3%9CNVAN-Bilgisayar%20Programc%C4%B1l%C4%B1%C4%9F%C4%B1%20%C3%96%C4%9Frencisi-DB2777?style=flat-square" />
+  <img src="https://img.shields.io/badge/UNVAN-B%C4%B0LG%C4%B0SAYAR%20PROGRAMCILI%C4%9EI%20%C3%96%C4%9ERENC%C4%B0S%C4%B0-DB2777?style=flat-square" />
   <br>
   <img src="https://img.shields.io/badge/%C3%9CN%C4%B0VERS%C4%B0TE-Bayburt%20%C3%9Cniversitesi-F472B6?style=flat-square" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/HEDEFLER%C4%B0M-EC4899?style=for-the-badge" />
+</p>
+
+* Şu an derslerimle birlikte temel kodlama ve problem çözme pratiği yapıyorum.
+* Öğrendiklerimi küçük projelere dönüştürmek ve yazılım alanında kendimi sağlam bir temelle geliştirmek istiyorum.
+* Yazılım alanında projeler üretmek istiyorum.
