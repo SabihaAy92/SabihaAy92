@@ -17,7 +17,9 @@
 
 ```python
 class Sabiha Aydemir:
-    unvan      = "Bilgisayar Programcılığı Öğrencisi"
-    universite = "Bayburt Üniversitesi"
-    ilgi_alani = ["Programlama", "Donanım", "Ağ Temelleri","Grafik ve Animasyon","Siber Güvenlik"]
-    hedef      = "Yazılım geliştirme alanında kendimi geliştirmek"
+    Unvan      = "Bilgisayar Programcılığı Öğrencisi"
+    Universite = "Bayburt Üniversitesi"
+    Ilgi_alani = ["Programlama", "Donanım", "Ağ Temelleri","Grafik ve Animasyon","Siber Güvenlik"]
+    Hedef  =
+"Yazılım geliştirme alanında kendimi geliştirmek"
+"
